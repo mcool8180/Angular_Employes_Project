@@ -1,0 +1,18 @@
+2020/03/19-08:45:48.207 3883 Reusing MANIFEST /home/mukul/snap/postman/101/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/03/19-08:45:48.208 3883 Recovering log #10
+2020/03/19-08:45:48.257 3883 Reusing old log /home/mukul/snap/postman/101/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000010.log 
+2020/03/19-08:46:17.234 3885 Current memtable full; waiting...
+2020/03/19-08:46:17.234 4092 Level-0 table #14: started
+2020/03/19-08:46:17.243 4092 Level-0 table #14: 849184 bytes OK
+2020/03/19-08:46:17.245 4092 Delete type=0 #10
+2020/03/19-08:46:17.245 4092 Level-0 table #16: started
+2020/03/19-08:46:17.245 4092 Level-0 table #16: 0 bytes OK
+2020/03/19-08:46:17.247 4092 Delete type=0 #13
+2020/03/19-08:46:17.247 4092 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 3024 : 1
+2020/03/19-08:46:17.247 4092 Compacting 1@0 + 1@1 files
+2020/03/19-08:46:17.252 4092 Generated table #17@0: 1131 keys, 65285 bytes
+2020/03/19-08:46:17.252 4092 Compacted 1@0 + 1@1 files => 65285 bytes
+2020/03/19-08:46:17.254 4092 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/19-08:46:17.254 4092 Delete type=2 #9
+2020/03/19-08:46:17.254 4092 Delete type=2 #14
+2020/03/19-08:46:17.255 4092 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 3024 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

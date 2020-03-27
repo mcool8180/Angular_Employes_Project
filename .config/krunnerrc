@@ -1,0 +1,5 @@
+[General]
+history=konsol,chrom,firef,kons,ter
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_google-chrome.desktop,1 services_firefox.desktop,2 services_org.kde.konsole.desktop

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=baloo
+Name=documents
+Type=Link
+URL[$e]=baloosearch:/documents
+X-KDE-LastOpenedWith=org.kde.dolphin

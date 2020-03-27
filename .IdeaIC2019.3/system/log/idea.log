@@ -1,0 +1,142 @@
+2020-03-19 08:38:50,765 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-03-19 08:38:53,424 [   2659]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-193.6911.18, 17 Mar 2020 14:43) 
+2020-03-19 08:38:53,430 [   2665]   INFO -        #com.intellij.idea.Main - OS: Linux (5.0.0-38-generic, amd64) 
+2020-03-19 08:38:53,431 [   2666]   INFO -        #com.intellij.idea.Main - JRE: 11.0.6+8-b520.43 (JetBrains s.r.o) 
+2020-03-19 08:38:53,431 [   2666]   INFO -        #com.intellij.idea.Main - JVM: 11.0.6+8-b520.43 (OpenJDK 64-Bit Server VM) 
+2020-03-19 08:38:53,434 [   2669]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/mukul/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/mukul/java_error_in_IDEA.hprof -Didea.paths.selector=IdeaIC2019.3 -Djb.vmOptionsFile=/snap/intellij-idea-community/216/bin/idea64.vmoptions -Didea.platform.prefix=Idea -Didea.jre.check=true 
+2020-03-19 08:38:53,435 [   2670]   INFO -        #com.intellij.idea.Main - charsets: JNU=UTF-8 file=UTF-8 
+2020-03-19 08:38:55,882 [   5117]   INFO -        #com.intellij.idea.Main - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@58808ba0[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@2b3aa445 
+2020-03-19 08:38:55,949 [   5184]   INFO -        #com.intellij.idea.Main - WM detected: KWin 
+2020-03-19 08:38:56,289 [   5524]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 5488 ms 
+2020-03-19 08:39:21,320 [  30555]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-groovy.xml 
+2020-03-19 08:39:21,325 [  30560]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-detection-groovy.xml 
+2020-03-19 08:39:21,911 [  31146]   INFO - llij.ide.plugins.PluginManager - Plugin "Java" misses optional descriptor profiler-java.xml 
+2020-03-19 08:39:22,194 [  31429]   INFO - .intellij.util.io.HttpRequests - Application is not initialized yet; Using default SSL configuration to connect to https://plugins.jetbrains.com/plugins/list/?uuid=da77ea66-33cb-469c-998f-98c1a6335a88&build=IC-193.6911.18 
+2020-03-19 08:39:23,342 [  32577]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-groovy.xml 
+2020-03-19 08:39:23,342 [  32577]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-detection-groovy.xml 
+2020-03-19 08:39:23,390 [  32625]   INFO - llij.ide.plugins.PluginManager - Plugin "Java" misses optional descriptor profiler-java.xml 
+2020-03-19 08:39:23,442 [  32677]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.3.5), Ant (193.6911.18), Bytecode Viewer (193.6911.18), ChangeReminder (193.6911.18), Configuration Script (193.6911.18), Copyright (193.6911.18), Coverage (193.6911.18), Eclipse Interoperability (193.6911.18), EditorConfig (193.6911.18), Git (193.6911.18), GitHub (193.6911.18), Gradle (193.6911.18), Gradle-Java (193.6911.18), Gradle-Maven (193.6911.18), Groovy (193.6911.18), IDEA CORE (193.6911.18), IntelliLang (193.6911.18), JUnit (193.6911.18), Java (193.6911.18), Java Bytecode Decompiler (193.6911.18), Java IDE Customization (193.6911.18), Java Internationalization (193.6911.18), Java Stream Debugger (193.6911.18), JavaFX (193.6911.18), Kotlin (1.3.61-release-IJ2019.3-1), Machine Learning Code Completion (193.6911.18), Markdown (193.6911.18), Maven (193.6911.18), Mercurial (193.6911.18), Plugin DevKit (193.6911.18), Properties (193.6911.18), Settings Repository (193.6911.18), Shell Script (193.6911.18), Smali Support (193.6911.18), Subversion (193.6911.18), Task Management (193.6911.18), Terminal (193.6911.18), TestNG (193.6911.18), TextMate bundles (193.6911.18), UI Designer (193.6911.18), XPathView + XSLT (193.6911.18), XSLT Debugger (193.6911.18), YAML (193.6911.18) 
+2020-03-19 08:39:32,126 [  41361]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-groovy.xml 
+2020-03-19 08:39:32,127 [  41362]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-detection-groovy.xml 
+2020-03-19 08:39:32,165 [  41400]   INFO - llij.ide.plugins.PluginManager - Plugin "Java" misses optional descriptor profiler-java.xml 
+2020-03-19 08:39:32,187 [  41422]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.3.5), Ant (193.6911.18), Bytecode Viewer (193.6911.18), ChangeReminder (193.6911.18), Configuration Script (193.6911.18), Copyright (193.6911.18), Coverage (193.6911.18), Eclipse Interoperability (193.6911.18), EditorConfig (193.6911.18), Git (193.6911.18), GitHub (193.6911.18), Gradle (193.6911.18), Gradle-Java (193.6911.18), Gradle-Maven (193.6911.18), Groovy (193.6911.18), IDEA CORE (193.6911.18), IntelliLang (193.6911.18), JUnit (193.6911.18), Java (193.6911.18), Java Bytecode Decompiler (193.6911.18), Java IDE Customization (193.6911.18), Java Internationalization (193.6911.18), Java Stream Debugger (193.6911.18), JavaFX (193.6911.18), Kotlin (1.3.61-release-IJ2019.3-1), Machine Learning Code Completion (193.6911.18), Markdown (193.6911.18), Maven (193.6911.18), Mercurial (193.6911.18), Plugin DevKit (193.6911.18), Properties (193.6911.18), Settings Repository (193.6911.18), Shell Script (193.6911.18), Smali Support (193.6911.18), Subversion (193.6911.18), Task Management (193.6911.18), Terminal (193.6911.18), TestNG (193.6911.18), TextMate bundles (193.6911.18), UI Designer (193.6911.18), XPathView + XSLT (193.6911.18), XSLT Debugger (193.6911.18), YAML (193.6911.18) 
+2020-03-19 08:39:33,675 [  42910]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-03-19 08:39:33,721 [  42956]   INFO - fs.newvfs.persistent.FSRecords - Marking VFS as corrupted: '/home/mukul/.IdeaIC2019.3/system/caches/names.dat' does not exist 
+2020-03-19 08:39:33,724 [  42959]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2020-03-19 08:39:33,734 [  42969]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes 
+2020-03-19 08:39:33,762 [  42997]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2020-03-19 08:39:33,762 [  42997]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2020-03-19 08:39:33,774 [  43009]   INFO - rnal.statistic.DeviceIdManager - Generating new Device ID 
+2020-03-19 08:39:33,783 [  43018]   INFO - eventLog.EventLogConfiguration - Generating salt for the device 
+2020-03-19 08:39:33,814 [  43049]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/intellij-idea-community/216/bin/fsnotifier64 
+2020-03-19 08:39:33,870 [  43105]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-03-19 08:39:34,016 [  43251]   WARN - com.intellij.ide.ui.LafManager - List.rowHeight = 0 in Darcula; it may lead to performance degradation 
+2020-03-19 08:39:34,017 [  43252]   WARN - com.intellij.ide.ui.LafManager - Table.rowHeight = 0 in Darcula; it may lead to performance degradation 
+2020-03-19 08:39:34,017 [  43252]   WARN - com.intellij.ide.ui.LafManager - Tree.rowHeight = 0 in Darcula; it may lead to performance degradation 
+2020-03-19 08:39:34,084 [  43319]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2020-03-19 08:39:34,110 [  43345]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2020-03-19 08:39:34,237 [  43472]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2020-03-19 08:39:36,570 [  45805]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 19/03/20, 8:39 AM) 
+2020-03-19 08:39:38,619 [  47854]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:KNM,Groovy,CLASS,Markdown,Properties,Kotlin,HTML,kotlin_builtins,JAVA,DGM,XML,KJSM 
+2020-03-19 08:39:39,787 [  49022]   INFO - il.indexing.FileBasedIndexImpl - Indices to be built:FrameworkDetectionIndex,TodoIndex,IdIndex,FilenameIndex,filetypes,Stubs,Trigram.Index,fileIncludes,DomFileIndex,RelaxSymbolIndex,XmlTagNames,XmlNamespaces,html5.custom.attributes.index,SchemaTypeInheritance,json.file.root.values,ImageFileInfoIndex,bytecodeAnalysis,java.auto.module.name,java.source.module.name,java.null.method.argument,java.simple.property,java.fun.expression,java.binary.plus.expression,RefQueueIndex,xmlProperties,ant-imports,XsltSymbolIndex,GroovyDslFileIndex,groovy.trait.fields,groovy.trait.methods,FormClassIndex,IdeaPluginRegistrationIndex,PluginIdModuleIndex,PluginIdDependenciesIndex,devkit.ExtensionPointIndex,editorconfig.index.name,org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex,org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex,org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex,DataBindingXmlIndex,JavaFxControllerClassIndex,javafx.id.name,javafx.custom.component,yaml.keys.name 
+2020-03-19 08:39:39,792 [  49027]   WARN - .diagnostic.PerformanceWatcher - UI freezed for 6134ms, details saved to /home/mukul/.IdeaIC2019.3/system/log/threadDumps-freeze-20200319-083933-IC-193.6911.18-StringLatin1.getChars-6sec 
+2020-03-19 08:39:39,797 [  49032]   INFO - pl$FileIndexDataInitialization - Initialization done: 6061 
+2020-03-19 08:39:40,021 [  49256]   INFO - tellij.psi.stubs.StubIndexImpl - Following stub indices will be built:dom.namespaceKey,dom.elementClass,java.annotations,java.class.extlist,java.field.name,java.method.name,jvm.static.member.name,jvm.static.member.type,java.anonymous.baseref,java.method.parameter.types,java.class.shortname,java.class.fqn,java.module.name,properties.index,gr.class.fqn,gr.script.fqn,gr.field.name,gr.method.name,gr.annot.method.name,gr.annot.members,gr.script.class,gr.class.super,gr.anonymous.class,markdown.header,org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex,org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex,org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex 
+2020-03-19 08:39:40,021 [  49256]   INFO - exImpl$StubIndexInitialization - Initialization done: 223 
+2020-03-19 08:39:53,715 [  62950]   INFO - tellij.ide.SystemHealthMonitor - restored ignored PIPE handler 
+2020-03-19 08:39:58,837 [  68072]   INFO - rationStore.ComponentStoreImpl - Saving appDebuggerSettings took 26 ms 
+2020-03-19 08:39:59,502 [  68737]   INFO - Types.impl.FileTypeManagerImpl - 0 auto-detected files. Detection took 0 ms 
+2020-03-19 08:39:59,503 [  68738]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-03-19 08:39:59,509 [  68744]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2020-03-19 08:39:59,509 [  68744]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2020-03-19 08:39:59,510 [  68745]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2020-03-19 08:39:59,510 [  68745]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2020-03-19 08:39:59,529 [  68764]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2020-03-19 08:39:59,529 [  68764]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2020-03-19 08:39:59,530 [  68765]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2020-03-19 08:39:59,533 [  68768]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2020-03-19 08:39:59,539 [  68774]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-03-19 11:54:57,911 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-03-19 11:54:58,032 [    121]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-193.6911.18, 17 Mar 2020 14:43) 
+2020-03-19 11:54:58,037 [    126]   INFO -        #com.intellij.idea.Main - OS: Linux (5.0.0-38-generic, amd64) 
+2020-03-19 11:54:58,037 [    126]   INFO -        #com.intellij.idea.Main - JRE: 11.0.6+8-b520.43 (JetBrains s.r.o) 
+2020-03-19 11:54:58,037 [    126]   INFO -        #com.intellij.idea.Main - JVM: 11.0.6+8-b520.43 (OpenJDK 64-Bit Server VM) 
+2020-03-19 11:54:58,037 [    126]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/mukul/java_error_in_IDEA_%p.log -XX:HeapDumpPath=/home/mukul/java_error_in_IDEA.hprof -Didea.paths.selector=IdeaIC2019.3 -Djb.vmOptionsFile=/snap/intellij-idea-community/216/bin/idea64.vmoptions -Didea.platform.prefix=Idea -Didea.jre.check=true 
+2020-03-19 11:54:58,037 [    126]   INFO -        #com.intellij.idea.Main - charsets: JNU=UTF-8 file=UTF-8 
+2020-03-19 11:54:58,220 [    309]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 292 ms 
+2020-03-19 11:54:58,683 [    772]   INFO - ntellij.idea.ApplicationLoader - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@72af7d67[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@19cbbf1d 
+2020-03-19 11:54:58,748 [    837]   INFO - ntellij.idea.ApplicationLoader - WM detected: KWin 
+2020-03-19 11:54:58,793 [    882]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-groovy.xml 
+2020-03-19 11:54:58,794 [    883]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-detection-groovy.xml 
+2020-03-19 11:54:59,004 [   1093]   INFO - llij.ide.plugins.PluginManager - Plugin "Java" misses optional descriptor profiler-java.xml 
+2020-03-19 11:54:59,078 [   1167]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.3.5), Ant (193.6911.18), Bytecode Viewer (193.6911.18), ChangeReminder (193.6911.18), Configuration Script (193.6911.18), Copyright (193.6911.18), Coverage (193.6911.18), Eclipse Interoperability (193.6911.18), EditorConfig (193.6911.18), Git (193.6911.18), GitHub (193.6911.18), Gradle (193.6911.18), Gradle-Java (193.6911.18), Gradle-Maven (193.6911.18), Groovy (193.6911.18), IDEA CORE (193.6911.18), IntelliLang (193.6911.18), JUnit (193.6911.18), Java (193.6911.18), Java Bytecode Decompiler (193.6911.18), Java IDE Customization (193.6911.18), Java Internationalization (193.6911.18), Java Stream Debugger (193.6911.18), JavaFX (193.6911.18), Kotlin (1.3.61-release-IJ2019.3-1), Machine Learning Code Completion (193.6911.18), Markdown (193.6911.18), Maven (193.6911.18), Mercurial (193.6911.18), Plugin DevKit (193.6911.18), Properties (193.6911.18), Settings Repository (193.6911.18), Shell Script (193.6911.18), Smali Support (193.6911.18), Subversion (193.6911.18), Task Management (193.6911.18), Terminal (193.6911.18), TestNG (193.6911.18), TextMate bundles (193.6911.18), UI Designer (193.6911.18), XPathView + XSLT (193.6911.18), XSLT Debugger (193.6911.18), YAML (193.6911.18) 
+2020-03-19 11:54:59,610 [   1699]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2020-03-19 11:54:59,623 [   1712]   INFO - tellij.util.io.FileChannelUtil - un-interruptible FileChannel-s will be used for indexes 
+2020-03-19 11:54:59,688 [   1777]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2020-03-19 11:54:59,791 [   1880]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /snap/intellij-idea-community/216/bin/fsnotifier64 
+2020-03-19 11:54:59,831 [   1920]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-03-19 11:54:59,902 [   1991]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-03-19 11:54:59,902 [   1991]   WARN - com.intellij.ide.ui.LafManager - List.rowHeight = 0 in Darcula; it may lead to performance degradation 
+2020-03-19 11:54:59,903 [   1992]   WARN - com.intellij.ide.ui.LafManager - Table.rowHeight = 0 in Darcula; it may lead to performance degradation 
+2020-03-19 11:54:59,903 [   1992]   WARN - com.intellij.ide.ui.LafManager - Tree.rowHeight = 0 in Darcula; it may lead to performance degradation 
+2020-03-19 11:54:59,922 [   2011]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2020-03-19 11:54:59,966 [   2055]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2020-03-19 11:55:00,496 [   2585]   INFO - pl$FileIndexDataInitialization - Initialization done: 805 
+2020-03-19 11:55:00,531 [   2620]   INFO - exImpl$StubIndexInitialization - Initialization done: 34 
+2020-03-19 11:55:02,823 [   4912]   INFO - tellij.ide.SystemHealthMonitor - restored ignored PIPE handler 
+2020-03-19 11:55:47,720 [  49809]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2020-03-19 11:55:49,850 [  51939]   INFO - penapi.wm.impl.GlobalMenuLinux - Closed dbus-service 'com.canonical.AppMenu.Registrar' 
+2020-03-19 11:55:49,965 [  52054]   INFO - penapi.wm.impl.GlobalMenuLinux - created instance of GlobalMenuLinux for xid=0x4800145 
+2020-03-19 11:55:50,247 [  52336]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2020-03-19 11:55:51,006 [  53095]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 552ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-03-19 11:55:51,157 [  53246]   WARN - tartup.impl.StartupManagerImpl - /home/mukul/IdeaProjects/Collections/.idea 
+java.io.FileNotFoundException: /home/mukul/IdeaProjects/Collections/.idea
+	at com.intellij.openapi.util.io.FileUtil.isFileSystemCaseSensitive(FileUtil.java:1470)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.checkFsSanity(StartupManagerImpl.java:322)
+	at com.intellij.ide.startup.impl.StartupManagerImpl.runPostStartupActivities(StartupManagerImpl.java:256)
+	at com.intellij.openapi.project.impl.ProjectManagerImpl.lambda$doLoadProject$10(ProjectManagerImpl.java:464)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:309)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.doRun(LaterInvocator.java:441)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.runNextEvent(LaterInvocator.java:424)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:407)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:908)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:424)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:698)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:423)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2020-03-19 11:55:51,185 [  53274]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 35ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-03-19 11:55:51,268 [  53357]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 4149 ms 
+2020-03-19 11:55:51,544 [  53633]   INFO - rationStore.ComponentStoreImpl - Saving Module: 'Collections'NewModuleRootManager took 34 ms 
+2020-03-19 11:55:51,743 [  53832]   INFO - rationStore.ComponentStoreImpl - Saving Project (name=Collections, containerState=ACTIVE, componentStore=/home/mukul/IdeaProjects/Collections) ServiceViewManager took 12 ms, XDebuggerManager took 12 ms 
+2020-03-19 11:55:53,496 [  55585]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 2309ms; general responsiveness: ok; EDT responsiveness: 1/2 sluggish 
+2020-03-19 11:55:53,504 [  55593]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 27591 files to update 
+2020-03-19 11:55:57,944 [  60033]   INFO - gnostic.MemorySizeConfigurator - Physical memory 15888M, minimum memory size 128M, -Xmx adjusted from 750M to 1986M 
+2020-03-19 11:55:57,994 [  60083]   INFO - ge.ExternalProjectsDataStorage - Load external projects data in 8 millis (read time: 5) 
+2020-03-19 11:56:06,644 [  68733]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 13140ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-03-19 11:56:07,286 [  69375]   INFO - CompilerWorkspaceConfiguration - Available processors: 8 
+2020-03-19 11:57:03,782 [ 125871]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2020-03-19 14:31:22,404 [9384493]   INFO - rationStore.ComponentStoreImpl - Saving appDiffSettings took 142 ms, FileTypeManager took 18 ms, XDebuggerSettings took 21 ms 
+2020-03-19 15:08:50,082 [11632171]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-03-19 15:08:50,085 [11632174]   INFO - Types.impl.FileTypeManagerImpl - 31 auto-detected files. Detection took 65 ms 
+2020-03-19 15:08:50,087 [11632176]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2020-03-19 15:08:50,088 [11632177]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2020-03-19 15:08:50,088 [11632177]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2020-03-19 15:08:50,088 [11632177]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2020-03-19 15:08:50,107 [11632196]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2020-03-19 15:08:50,107 [11632196]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2020-03-19 15:08:50,108 [11632197]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2020-03-19 15:08:50,114 [11632203]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2020-03-19 15:08:50,114 [11632203]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

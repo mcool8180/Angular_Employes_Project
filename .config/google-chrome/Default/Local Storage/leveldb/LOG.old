@@ -1,0 +1,36 @@
+2020/03/18-09:34:58.050 676 Reusing MANIFEST /home/mukul/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/03/18-09:34:58.050 676 Recovering log #3
+2020/03/18-09:34:58.050 676 Reusing old log /home/mukul/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2020/03/18-09:37:07.169 99d Level-0 table #5: started
+2020/03/18-09:37:07.172 99d Level-0 table #5: 37957 bytes OK
+2020/03/18-09:37:07.174 99d Delete type=0 #3
+2020/03/18-14:23:23.423 99d Level-0 table #7: started
+2020/03/18-14:23:23.432 99d Level-0 table #7: 51345 bytes OK
+2020/03/18-14:23:23.434 99d Delete type=0 #4
+2020/03/18-15:28:16.862 99d Level-0 table #9: started
+2020/03/18-15:28:16.871 99d Level-0 table #9: 58199 bytes OK
+2020/03/18-15:28:16.873 99d Delete type=0 #6
+2020/03/18-16:02:55.191 99d Level-0 table #11: started
+2020/03/18-16:02:55.195 99d Level-0 table #11: 12040 bytes OK
+2020/03/18-16:02:55.197 99d Delete type=0 #8
+2020/03/18-16:16:18.122 99d Level-0 table #13: started
+2020/03/18-16:16:18.128 99d Level-0 table #13: 27701 bytes OK
+2020/03/18-16:16:18.131 99d Delete type=0 #10
+2020/03/18-17:26:18.723 99d Level-0 table #15: started
+2020/03/18-17:26:18.733 99d Level-0 table #15: 11245 bytes OK
+2020/03/18-17:26:18.735 99d Delete type=0 #12
+2020/03/18-17:26:18.736 99d Compacting 4@0 + 1@1 files
+2020/03/18-17:26:18.744 99d Generated table #16@0: 154 keys, 121868 bytes
+2020/03/18-17:26:18.744 99d Compacted 4@0 + 1@1 files => 121868 bytes
+2020/03/18-17:26:18.745 99d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/18-17:26:18.746 99d Delete type=2 #7
+2020/03/18-17:26:18.746 99d Delete type=2 #9
+2020/03/18-17:26:18.746 99d Delete type=2 #11
+2020/03/18-17:26:18.746 99d Delete type=2 #13
+2020/03/18-17:26:18.746 99d Delete type=2 #15
+2020/03/18-22:19:25.668 99d Level-0 table #18: started
+2020/03/18-22:19:25.671 99d Level-0 table #18: 15002 bytes OK
+2020/03/18-22:19:25.673 99d Delete type=0 #14
+2020/03/18-22:20:05.112 99d Level-0 table #20: started
+2020/03/18-22:20:05.115 99d Level-0 table #20: 16230 bytes OK
+2020/03/18-22:20:05.116 99d Delete type=0 #17

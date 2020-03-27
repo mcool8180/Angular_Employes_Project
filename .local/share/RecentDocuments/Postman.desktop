@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=folder
+Name=Postman
+Type=Link
+URL[$e]=file:$HOME/Downloads/Postman
+X-KDE-LastOpenedWith=org.kde.dolphin

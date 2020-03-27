@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-json
+Name=Country_Collection.postman_collection.json
+Type=Link
+URL[$e]=file:$HOME/Desktop/Country_Collection.postman_collection.json
+X-KDE-LastOpenedWith=org.kde.kate

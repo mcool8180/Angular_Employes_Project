@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-compressed-tar
+Name=Postman-linux-x64-7.20.1.tar.gz
+Type=Link
+URL[$e]=file:$HOME/Downloads/Postman-linux-x64-7.20.1.tar.gz
+X-KDE-LastOpenedWith=org.kde.ark

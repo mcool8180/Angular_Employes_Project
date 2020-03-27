@@ -1,0 +1,34 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1021a1811be1c7000158444783600000013050006
+clientId2=1021a1811be1c7000158450425700000012800006
+clientId3=1021a1811be1c7000158450425700000012800010
+clientId4=1021a1811be1c7000158451480800000012800011
+count=4
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_1021a1811be1c7000158444783600000013050006_1584551381_591662
+discardCommand4[$e]=rm,$HOME/.config/session/konsole_1021a1811be1c7000158451480800000012800011_1584551381_578339
+program1=/usr/bin/kwin_x11
+program2=/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd
+program3=pulseaudio
+program4=/usr/bin/konsole
+restartCommand1=/usr/bin/kwin_x11,-session,1021a1811be1c7000158444783600000013050006_1584551381_591662
+restartCommand2=/usr/lib/x86_64-linux-gnu/libexec/kdeconnectd,-session,1021a1811be1c7000158450425700000012800006_1584551381_578179
+restartCommand3=
+restartCommand4=/usr/bin/konsole,-session,1021a1811be1c7000158451480800000012800011_1584551381_578339
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=mukul
+userId2=mukul
+userId3=mukul
+userId4=mukul
+wasWm1=true
+wasWm2=false
+wasWm3=false
+wasWm4=false

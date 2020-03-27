@@ -1,0 +1,27 @@
+2020/03/18-09:34:57.879 675 Reusing MANIFEST /home/mukul/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/03/18-09:34:57.880 675 Recovering log #4
+2020/03/18-09:34:57.880 675 Reusing old log /home/mukul/.config/google-chrome/Default/Session Storage/000004.log 
+2020/03/18-10:23:55.413 99d Level-0 table #8: started
+2020/03/18-10:23:55.416 99d Level-0 table #8: 16060 bytes OK
+2020/03/18-10:23:55.418 99d Delete type=0 #4
+2020/03/18-14:22:32.704 99d Level-0 table #10: started
+2020/03/18-14:22:32.711 99d Level-0 table #10: 16491 bytes OK
+2020/03/18-14:22:32.712 99d Delete type=0 #7
+2020/03/18-15:28:06.233 99d Level-0 table #12: started
+2020/03/18-15:28:06.240 99d Level-0 table #12: 16976 bytes OK
+2020/03/18-15:28:06.241 99d Delete type=0 #9
+2020/03/18-16:13:22.383 99d Level-0 table #14: started
+2020/03/18-16:13:22.389 99d Level-0 table #14: 19242 bytes OK
+2020/03/18-16:13:22.391 99d Delete type=0 #11
+2020/03/18-16:31:45.919 99d Level-0 table #16: started
+2020/03/18-16:31:45.921 99d Level-0 table #16: 14770 bytes OK
+2020/03/18-16:31:45.922 99d Delete type=0 #13
+2020/03/18-16:31:45.922 99d Compacting 4@0 + 1@1 files
+2020/03/18-16:31:45.925 99d Generated table #17@0: 210 keys, 72124 bytes
+2020/03/18-16:31:45.925 99d Compacted 4@0 + 1@1 files => 72124 bytes
+2020/03/18-16:31:45.927 99d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/18-16:31:45.927 99d Delete type=2 #10
+2020/03/18-16:31:45.927 99d Delete type=2 #16
+2020/03/18-16:31:45.927 99d Delete type=2 #12
+2020/03/18-16:31:45.927 99d Delete type=2 #14
+2020/03/18-16:31:45.927 99d Delete type=2 #8

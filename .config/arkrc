@@ -1,0 +1,18 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/Downloads/
+
+[MainWindow]
+Height 1080=1015
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOxAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1920=1920
+splitterSizes=1279,640
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Postman-linux-x64-7.20.1.tar.gz
+Name1[$e]=Postman-linux-x64-7.20.1.tar.gz
